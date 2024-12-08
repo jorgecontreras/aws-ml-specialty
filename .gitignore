@@ -12,6 +12,9 @@ jupyter_env/
 # Ignore dataset files
 datasets/
 
+# Ignore generated models
+models/
+
 # Ignore IDE-specific files (optional)
 .vscode/
 .idea/
