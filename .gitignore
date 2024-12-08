@@ -1,0 +1,17 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python virtual environment folders
+venv/
+jupyter_env/
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore dataset files
+datasets/
+
+# Ignore IDE-specific files (optional)
+.vscode/
+.idea/
